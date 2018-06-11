@@ -1,0 +1,10 @@
+
+
+
+Spark Solution
+
+Run The iplm.py in the spark
+
+
+spark-submit /home/tom/iplm.py
+
